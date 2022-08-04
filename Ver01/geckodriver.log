@@ -1,0 +1,121 @@
+1657872982912	geckodriver	INFO	Listening on 127.0.0.1:1403
+1657872983428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Doris\\AppData\\Local\\Temp\\rust_mozprofileY6V5NQ"
+1657872983741	Marionette	INFO	Marionette enabled
+1657872983744	Marionette	INFO	Listening on port 1411
+WebDriver BiDi listening on ws://localhost:1404
+Read port: 1411
+1657872983993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Doris\\AppData\\Local\\Temp\\rust_mozprofileY6V5NQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1404/devtools/browser/5a732587-3f86-4bac-b447-68392c43dacf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+1657872988179	Marionette	INFO	Stopped listening on port 1411
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657873959394	geckodriver	INFO	Listening on 127.0.0.1:12167
+1657873959919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Doris\\AppData\\Local\\Temp\\rust_mozprofileHulepA"
+1657873960195	Marionette	INFO	Marionette enabled
+1657873960198	Marionette	INFO	Listening on port 12175
+WebDriver BiDi listening on ws://localhost:12168
+Read port: 12175
+1657873960275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Doris\\AppData\\Local\\Temp\\rust_mozprofileHulepA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12168/devtools/browser/fdb06220-d717-409f-a8f6-34d86456be61
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://au2.doc.ineight.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657873970990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657873979255	Marionette	INFO	Stopped listening on port 12175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658271556764	geckodriver	INFO	Listening on 127.0.0.1:65007
+1658271560262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofile3a3nYM"
+1658271566115	Marionette	INFO	Marionette enabled
+1658271566127	Marionette	INFO	Listening on port 65022
+WebDriver BiDi listening on ws://localhost:65008
+Read port: 65022
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1658271576572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofile3a3nYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65008/devtools/browser/92c39969-48e1-4016-bc7a-c5ae7552b44b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658271626571	geckodriver	INFO	Listening on 127.0.0.1:65133
+1658271629638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileOKVK5k"
+1658271630439	Marionette	INFO	Marionette enabled
+1658271630448	Marionette	INFO	Listening on port 65146
+WebDriver BiDi listening on ws://localhost:65134
+Read port: 65146
+1658271630656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileOKVK5k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65134/devtools/browser/1d74d1c6-fe2c-458f-bc5e-d9438c57eaff
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658271815556	geckodriver	INFO	Listening on 127.0.0.1:65387
+1658271818604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileW6Tmhk"
+1658271820149	Marionette	INFO	Marionette enabled
+1658271820165	Marionette	INFO	Listening on port 65399
+WebDriver BiDi listening on ws://localhost:65388
+Read port: 65399
+Read port: 65399
+1658271823453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileW6Tmhk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65388/devtools/browser/1fff854e-fa8a-4efa-8339-bf3e4b88ad0e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658272316303	geckodriver	INFO	Listening on 127.0.0.1:49409
+1658272319382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileCduO1D"
+1658272320077	Marionette	INFO	Marionette enabled
+1658272320082	Marionette	INFO	Listening on port 49421
+WebDriver BiDi listening on ws://localhost:49410
+Read port: 49421
+1658272320399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DorisHe\\AppData\\Local\\Temp\\rust_mozprofileCduO1D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49410/devtools/browser/555ffd24-0304-40f7-8688-98f81dd2e7b4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tfnswteambinder.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
